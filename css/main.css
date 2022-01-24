@@ -56,6 +56,27 @@ li a:hover {
   background-color: rgb(200, 173, 162);
 }
 
+#banner {
+  height: 80px;
+  width: 100%;
+  background-color: rgb(153, 116, 108);
+  padding-top: 40px;
+  text-align: center;
+}
+
+div a {
+  color: inherit;
+  text-decoration: none;
+}
+
+div a:visited {
+  background-color: rgb(153, 116, 108);
+}
+
+div a:hover {
+  color: white;
+}
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
