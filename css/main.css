@@ -57,10 +57,10 @@ li a:hover {
 }
 
 #banner {
-  height: 80px;
+  height: 60px;
   width: 100%;
   background-color: rgb(153, 116, 108);
-  padding-top: 40px;
+  padding-top: 30px;
   text-align: center;
 }
 
